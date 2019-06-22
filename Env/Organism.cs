@@ -4,6 +4,7 @@ namespace Env
     {
         protected bool alive;
         private int health;
+        protected int x, y;
         enum Kingdom
         {
         }

@@ -4,7 +4,8 @@ namespace Env
     {
         enum EnvironmentType
         {
-            
+            Plain,
+            Mountain
         }
     }
 }

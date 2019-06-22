@@ -28,6 +28,8 @@ namespace Env.Plant
         {
             grownWatch.Start();
             plantFuncs.Grow();
+            x = Common.publicRandom.Next(Map.length);
+            y = Common.publicRandom.Next(Map.width);
         }
     }
 }

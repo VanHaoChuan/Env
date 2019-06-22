@@ -11,8 +11,10 @@
           <e p="Sheep.cs" t="Include" />
         </e>
         <e p="bin" t="ExcludeRecursive" />
+        <e p="Common.cs" t="Include" />
         <e p="Env.csproj" t="IncludeRecursive" />
         <e p="Environment.cs" t="Include" />
+        <e p="Map.cs" t="Include" />
         <e p="Meter.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">

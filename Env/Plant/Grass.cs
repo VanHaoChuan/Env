@@ -9,7 +9,7 @@ namespace Env.Plant
             plantFuncs = this;
             Init();
         }
-
+        
         public void Grow()
         {
             for (;;)
@@ -17,13 +17,11 @@ namespace Env.Plant
                 if (grownWatch.ElapsedMilliseconds == 10000)
                 {
                     age = PlantAge.SEEDLING;
-                    Console.WriteLine(grownWatch.ElapsedMilliseconds);
                 }
                 else if (grownWatch.ElapsedMilliseconds == 25000)
                 {
                     eatable = true;
                     age = PlantAge.GROWN;
-                    Console.WriteLine(grownWatch.ElapsedMilliseconds);
                 }
                 else if (grownWatch.ElapsedMilliseconds == 50000)
                 {
