@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8ceafae8-a058-46eb-900d-484b224f5cef" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Env/Environment.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+              <folding>
+                <marker date="1561199093324" expanded="true" signature="13:129" ph="{...}" />
+                <marker date="1561199093324" expanded="true" signature="53:127" ph="{...}" />
+                <marker date="1561199093324" expanded="true" signature="88:121" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Env/Organism.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="702">
+              <caret line="35" column="29" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
+              <folding>
+                <marker date="1561205195697" expanded="true" signature="13:645" ph="{...}" />
+                <marker date="1561205195697" expanded="true" signature="50:643" ph="{...}" />
+                <marker date="1561205195697" expanded="true" signature="135:155" ph="{...}" />
+                <marker date="1561205195697" expanded="true" signature="175:195" ph="{...}" />
+                <marker date="1561205195697" expanded="true" signature="214:234" ph="{...}" />
+                <marker date="1561205195697" expanded="true" signature="254:274" ph="{...}" />
+                <marker date="1561205195697" expanded="true" signature="295:315" ph="{...}" />
+                <marker date="1561205195697" expanded="true" signature="335:355" ph="{...}" />
+                <marker date="1561205195697" expanded="true" signature="377:397" ph="{...}" />
+                <marker date="1561205195697" expanded="true" signature="438:514" ph="{...}" />
+                <marker date="1561205195697" expanded="true" signature="556:637" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Env/Animals/Sheep.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+              <folding>
+                <marker date="1561200611078" expanded="true" signature="21:278" ph="{...}" />
+                <marker date="1561200611078" expanded="true" signature="56:276" ph="{...}" />
+                <marker date="1561200611078" expanded="true" signature="156:176" ph="{...}" />
+                <marker date="1561200611078" expanded="true" signature="220:270" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/StartUp/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+              <folding>
+                <marker date="1561205260001" expanded="true" signature="6:60" ph="..." />
+                <marker date="1561205260001" expanded="true" signature="79:218" ph="{...}" />
+                <marker date="1561205260001" expanded="true" signature="106:216" ph="{...}" />
+                <marker date="1561205260001" expanded="true" signature="152:210" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Env/Plant/IPlant.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+              <folding>
+                <marker date="1561203336685" expanded="true" signature="19:84" ph="{...}" />
+                <marker date="1561203336685" expanded="true" signature="49:82" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Env/Plant/Plant.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="319">
+              <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+              <folding>
+                <marker date="1561206417177" expanded="true" signature="6:55" ph="..." />
+                <marker date="1561206417177" expanded="true" signature="76:752" ph="{...}" />
+                <marker date="1561206417177" expanded="true" signature="121:750" ph="{...}" />
+                <marker date="1561206417177" expanded="true" signature="164:242" ph="{...}" />
+                <marker date="1561206417177" expanded="true" signature="538:633" ph="{...}" />
+                <marker date="1561206417177" expanded="true" signature="661:744" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Env/Plant/Grass.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="158">
+              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+              <folding>
+                <marker date="1561206417161" expanded="true" signature="34:950" ph="{...}" />
+                <marker date="1561206417161" expanded="true" signature="76:948" ph="{...}" />
+                <marker date="1561206417161" expanded="true" signature="132:203" ph="{...}" />
+                <marker date="1561206417161" expanded="true" signature="231:942" ph="{...}" />
+                <marker date="1561206417161" expanded="true" signature="262:932" ph="{...}" />
+                <marker date="1561206417161" expanded="true" signature="337:489" ph="{...}" />
+                <marker date="1561206417161" expanded="true" signature="555:740" ph="{...}" />
+                <marker date="1561206417161" expanded="true" signature="806:918" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Env/Animals/Animal.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+              <folding>
+                <marker date="1561200550014" expanded="true" signature="21:340" ph="{...}" />
+                <marker date="1561200550014" expanded="true" signature="67:338" ph="{...}" />
+                <marker date="1561200550014" expanded="true" signature="207:287" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Env/Meter.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+              <folding>
+                <marker date="1561198570963" expanded="true" signature="13:91" ph="{...}" />
+                <marker date="1561198570963" expanded="true" signature="38:89" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Timer</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Env/Environment.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Env/Meter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Env/Organism.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/StartUp/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Env/Animals/Sheep.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Env/Animals/Animal.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Env/Plant/IPlant.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Env/Plant/Plant.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Env/Plant/Grass.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Env/Environment.cs" />
+        <option value="$PROJECT_DIR$/Env/Meter.cs" />
+        <option value="$PROJECT_DIR$/Env/Animals/Animal.cs" />
+        <option value="$PROJECT_DIR$/Env/Animals/Sheep.cs" />
+        <option value="$PROJECT_DIR$/Env/StartUp.cs" />
+        <option value="$PROJECT_DIR$/Env/Plant/IPlant.cs" />
+        <option value="$PROJECT_DIR$/Env/Organism.cs" />
+        <option value="$PROJECT_DIR$/StartUp/Program.cs" />
+        <option value="$PROJECT_DIR$/Env/Plant/Grass.cs" />
+        <option value="$PROJECT_DIR$/Env/Plant/Plant.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs.cucumber.cucumber_node_package_dir" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="StartUpEnv" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/StartUp/bin/Debug/netcoreapp2.1/StartUp.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/StartUp" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/StartUp/StartUp.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ceafae8-a058-46eb-900d-484b224f5cef" name="Default Changelist" comment="" />
+      <created>1561198361303</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561198361303</updated>
+      <workItem from="1561198368185" duration="3373000" />
+      <workItem from="1561202414813" duration="2971000" />
+      <workItem from="1561205498474" duration="149000" />
+      <workItem from="1561205696524" duration="918000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7411000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="877" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.260745" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32951653" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34952766" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3994911" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.32951653" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Key Promoter X" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Env/Class1.cs" />
+    <entry file="file://$PROJECT_DIR$/Env/StartUp.cs" />
+    <entry file="file://$PROJECT_DIR$/Env/Environment.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+          <folding>
+            <marker date="1561199093324" expanded="true" signature="13:129" ph="{...}" />
+            <marker date="1561199093324" expanded="true" signature="53:127" ph="{...}" />
+            <marker date="1561199093324" expanded="true" signature="88:121" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Env/Organism.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="35" column="29" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
+          <folding>
+            <marker date="1561205195697" expanded="true" signature="13:645" ph="{...}" />
+            <marker date="1561205195697" expanded="true" signature="50:643" ph="{...}" />
+            <marker date="1561205195697" expanded="true" signature="135:155" ph="{...}" />
+            <marker date="1561205195697" expanded="true" signature="175:195" ph="{...}" />
+            <marker date="1561205195697" expanded="true" signature="214:234" ph="{...}" />
+            <marker date="1561205195697" expanded="true" signature="254:274" ph="{...}" />
+            <marker date="1561205195697" expanded="true" signature="295:315" ph="{...}" />
+            <marker date="1561205195697" expanded="true" signature="335:355" ph="{...}" />
+            <marker date="1561205195697" expanded="true" signature="377:397" ph="{...}" />
+            <marker date="1561205195697" expanded="true" signature="438:514" ph="{...}" />
+            <marker date="1561205195697" expanded="true" signature="556:637" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Env/Animals/Sheep.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+          <folding>
+            <marker date="1561200611078" expanded="true" signature="21:278" ph="{...}" />
+            <marker date="1561200611078" expanded="true" signature="56:276" ph="{...}" />
+            <marker date="1561200611078" expanded="true" signature="156:176" ph="{...}" />
+            <marker date="1561200611078" expanded="true" signature="220:270" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StartUp/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+          <folding>
+            <marker date="1561205260001" expanded="true" signature="6:60" ph="..." />
+            <marker date="1561205260001" expanded="true" signature="79:218" ph="{...}" />
+            <marker date="1561205260001" expanded="true" signature="106:216" ph="{...}" />
+            <marker date="1561205260001" expanded="true" signature="152:210" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Env/Plant/IPlant.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <folding>
+            <marker date="1561203336685" expanded="true" signature="19:84" ph="{...}" />
+            <marker date="1561203336685" expanded="true" signature="49:82" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Env/Animals/Animal.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+          <folding>
+            <marker date="1561200550014" expanded="true" signature="21:340" ph="{...}" />
+            <marker date="1561200550014" expanded="true" signature="67:338" ph="{...}" />
+            <marker date="1561200550014" expanded="true" signature="207:287" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Env/Meter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+          <folding>
+            <marker date="1561198570963" expanded="true" signature="13:91" ph="{...}" />
+            <marker date="1561198570963" expanded="true" signature="38:89" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Env/Plant/Grass.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding>
+            <marker date="1561206417161" expanded="true" signature="34:950" ph="{...}" />
+            <marker date="1561206417161" expanded="true" signature="76:948" ph="{...}" />
+            <marker date="1561206417161" expanded="true" signature="132:203" ph="{...}" />
+            <marker date="1561206417161" expanded="true" signature="231:942" ph="{...}" />
+            <marker date="1561206417161" expanded="true" signature="262:932" ph="{...}" />
+            <marker date="1561206417161" expanded="true" signature="337:489" ph="{...}" />
+            <marker date="1561206417161" expanded="true" signature="555:740" ph="{...}" />
+            <marker date="1561206417161" expanded="true" signature="806:918" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Env/Plant/Plant.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+          <folding>
+            <marker date="1561206417177" expanded="true" signature="6:55" ph="..." />
+            <marker date="1561206417177" expanded="true" signature="76:752" ph="{...}" />
+            <marker date="1561206417177" expanded="true" signature="121:750" ph="{...}" />
+            <marker date="1561206417177" expanded="true" signature="164:242" ph="{...}" />
+            <marker date="1561206417177" expanded="true" signature="538:633" ph="{...}" />
+            <marker date="1561206417177" expanded="true" signature="661:744" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <last-edited>C++</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

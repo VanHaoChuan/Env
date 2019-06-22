@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/Rider2019.1/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.1/resharper-host/local/Transient/ReSharperHost/v191/SolutionCaches/_Env.-1847206491.00" t="ExcludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/consoles/db" t="IncludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="Env" t="IncludeRecursive">
+        <e p="Animals" t="Include">
+          <e p="Animal.cs" t="Include" />
+          <e p="Sheep.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Env.csproj" t="IncludeRecursive" />
+        <e p="Environment.cs" t="Include" />
+        <e p="Meter.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="Env.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Organism.cs" t="Include" />
+        <e p="Plant" t="Include">
+          <e p="Grass.cs" t="Include" />
+          <e p="IPlant.cs" t="Include" />
+          <e p="Plant.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Env.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="StartUp" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="StartUp.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="StartUp.csproj" t="IncludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>

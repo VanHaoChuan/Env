@@ -1,0 +1,14 @@
+/Users/BillyHerrington/RiderProjects/Env/StartUp/bin/Debug/netcoreapp2.1/StartUp.deps.json
+/Users/BillyHerrington/RiderProjects/Env/StartUp/bin/Debug/netcoreapp2.1/StartUp.runtimeconfig.json
+/Users/BillyHerrington/RiderProjects/Env/StartUp/bin/Debug/netcoreapp2.1/StartUp.runtimeconfig.dev.json
+/Users/BillyHerrington/RiderProjects/Env/StartUp/bin/Debug/netcoreapp2.1/StartUp.dll
+/Users/BillyHerrington/RiderProjects/Env/StartUp/bin/Debug/netcoreapp2.1/StartUp.pdb
+/Users/BillyHerrington/RiderProjects/Env/StartUp/bin/Debug/netcoreapp2.1/Env.dll
+/Users/BillyHerrington/RiderProjects/Env/StartUp/bin/Debug/netcoreapp2.1/Env.pdb
+/Users/BillyHerrington/RiderProjects/Env/StartUp/obj/Debug/netcoreapp2.1/StartUp.csprojAssemblyReference.cache
+/Users/BillyHerrington/RiderProjects/Env/StartUp/obj/Debug/netcoreapp2.1/StartUp.csproj.CoreCompileInputs.cache
+/Users/BillyHerrington/RiderProjects/Env/StartUp/obj/Debug/netcoreapp2.1/StartUp.AssemblyInfoInputs.cache
+/Users/BillyHerrington/RiderProjects/Env/StartUp/obj/Debug/netcoreapp2.1/StartUp.AssemblyInfo.cs
+/Users/BillyHerrington/RiderProjects/Env/StartUp/obj/Debug/netcoreapp2.1/StartUp.csproj.CopyComplete
+/Users/BillyHerrington/RiderProjects/Env/StartUp/obj/Debug/netcoreapp2.1/StartUp.dll
+/Users/BillyHerrington/RiderProjects/Env/StartUp/obj/Debug/netcoreapp2.1/StartUp.pdb
