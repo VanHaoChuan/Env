@@ -1,3 +1,4 @@
+using System;
 using System.Diagnostics;
 using System.Threading.Tasks;
 
@@ -14,11 +15,19 @@ namespace Env.Plant
         } 
         protected static IPlant plantFuncs;
         protected static Stopwatch grownWatch;
+        protected int health;
         protected PlantAge age;
         public PlantAge Age => age;
         public bool eatable = false;
         public bool Eatable => eatable;
-        public Plant(int _health) : base(_health)
+        protected Map map = Common.map;
+        protected Plant(int _health) : base(_health)
+        {
+            age = PlantAge.SEED;
+            grownWatch = new Stopwatch();
+        }
+
+        protected Plant(int _health, int _x, int _y) : base(_health, _x, _y)
         {
             age = PlantAge.SEED;
             grownWatch = new Stopwatch();
@@ -28,8 +37,15 @@ namespace Env.Plant
         {
             grownWatch.Start();
             plantFuncs.Grow();
-            x = Common.publicRandom.Next(Map.length);
-            y = Common.publicRandom.Next(Map.width);
+            plantFuncs.Reproduction();
+        }
+
+        protected new void DestroyOrganism()
+        {
+            base.DestroyOrganism();
+            eatable = false;
+            plantFuncs = null;
+            grownWatch.Stop();
         }
     }
 }

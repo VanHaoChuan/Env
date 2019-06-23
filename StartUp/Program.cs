@@ -5,7 +5,7 @@ using Env.Plant;
 
 namespace StartUp
 {
-    static class Program
+    public static class Program
     {
         static void Main(string[] args)
         { 
@@ -15,8 +15,14 @@ namespace StartUp
             });
             Task mappingTask = new Task(() =>
             {
-                Map map = new Map(4,4);
-                map.ShowMap();
+                Grass grass = new Grass(64, 20, 3);
+                Common.map.AddOrganism(grass);
+                for (;;) 
+                {
+                    Console.Clear();
+                    Common.map.ShowMap();
+                    System.Threading.Thread.Sleep(20);
+                }
             });
             //plantCreatingTask.Start();
             mappingTask.Start();

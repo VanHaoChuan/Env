@@ -1,4 +1,5 @@
 using System;
+using System.Diagnostics;
 
 namespace Env
 {
@@ -11,13 +12,7 @@ namespace Env
             width = _width * Meter.METER;
             length = _length * Meter.METER;
             map = new int[length,width];
-            for (int variableLength = 0; variableLength < length; variableLength ++)
-            {
-                for (int variableWidth = 0; variableWidth < width; variableWidth++)
-                {
-                    map[variableLength, variableWidth] = 0;
-                }
-            }
+            Array.Clear(map,0,map.Length);
         }
         public void ShowMap()
         {
@@ -29,6 +24,11 @@ namespace Env
                     }
                 Console.WriteLine("\n");
             }
+        }
+
+        public void AddOrganism(Organism organism)
+        {
+            map[organism.x - 1, organism.y - 1] = 1;
         }
     }
 }

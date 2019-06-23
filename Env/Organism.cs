@@ -4,7 +4,7 @@ namespace Env
     {
         protected bool alive;
         private int health;
-        protected int x, y;
+        public int x, y;
         enum Kingdom
         {
         }
@@ -35,6 +35,16 @@ namespace Env
         {
             alive = true;
             health = _health;
+            x = Common.publicRandom.Next(Map.length);
+            y = Common.publicRandom.Next(Map.width);
+        }
+
+        protected Organism(int _health, int _x, int _y)
+        {
+            alive = true;
+            health = _health;
+            x = _x;
+            y = _y;
         }
 
         protected void DestroyOrganism()
